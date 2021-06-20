@@ -30,7 +30,7 @@ mongoose.connection.on("connected", err => {
 mongoose.set('useCreateIndex', true);
 bot.on('message', async message => {
     
-    if(!message.content.startsWith(config.prefix) || message.author.bot) return;
+    if(!message.content.startsWith(config.startPrefix) || message.author.bot) return;
 
   
 try{
