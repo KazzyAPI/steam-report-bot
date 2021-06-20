@@ -1,0 +1,10 @@
+{
+    "token" : "DICORD TOKEN HERE"
+,   "startPrefix" : "YOUR PREFIX HERE"
+,   "SteamAPI" : "API KEY HERE"
+,   "mongodb" : "MONGODB URL HERE"
+,   "bannedUsersChannel" : "CHANNEL TO SEND BANNED USERS TO"
+,   "watchedUsers" : "VOICE CHANNEL FOR TRACKING WATCHED USERS"
+,   "bannedUsers" : "VOICE CHANNEL FOR TRACKING BANNED USERS"
+,   "reportsSent" : "VOICE CHANNEL FOR TRACKING REPORTS"
+}
