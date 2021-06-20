@@ -33,7 +33,7 @@ npm install | npm i
 }
 ```
 
-You must enter each and every detail correctly or else bot will fail to function. [ Create a named Customer ]
+You must enter each and every detail correctly or else bot will fail to function. 
 - Token
     - This is pretty straight forward its just the discord bot!
 - startPrefix
@@ -46,6 +46,8 @@ You must enter each and every detail correctly or else bot will fail to function
     - The channel used for sending your victims. Will say `User is banned!`. The standard notification :P
 - watchedUsers / bannedUsers / reportsSent
     - Just a neat little thing i made for my server. Will track this information in voice channels, just like seen with zonerbot.
+- Redeemed user role
+    - Create a role named Customer, this will act as a permission for a user to report people. 
 
 ## Moving foward
   Now that this is done we have a few more things needed to get running. Bots will need to be placed within the `bots.txt` file in the format of `user:pass`. Proxies are also needed and will be done in the format `user:pass@ip:port`. I highly recommend using private proxies just for the quality and longevity of the accounts.
