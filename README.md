@@ -33,7 +33,7 @@ npm install | npm i
 }
 ```
 
-You must enter each and every detail correctly or else bot will fail to function.
+You must enter each and every detail correctly or else bot will fail to function. [ Create a named Customer ]
 - Token
     - This is pretty straight forward its just the discord bot!
 - startPrefix
